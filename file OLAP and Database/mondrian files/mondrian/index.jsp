@@ -25,7 +25,5 @@ analyze very large datasets stored in SQL databases without writing SQL.">
 <li><a href="testpage.jsp?query=dwoadw1">PIVOT DWOADW1</a></li>
 <li><a href="testpage.jsp?query=dwoadw2">PIVOT DWOADW2</a></li>
 </ul>
-
-
 </body>
 </html>
