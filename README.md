@@ -29,3 +29,4 @@ Maulana Bryan Syahputra (21082010038)</p>
 14.Letakkan semua file pada folder [file OLAP and database/mondrian files/WEB-INF/queries] ke dalam \tomcat\webapps\mondrian\WEB-INF\queries.<br>
 15.Letakkan semua file pada folder [file OLAP and database/mondrian files/mondrian] ke dalam \tomcat\webapps\mondrian\<br>
 16.Start Tomcat dan Jalankan Aplikasi dengan mengakses http://localhost/adventureworks</p>
+17.Gunakan Username : Admin dan password : system
